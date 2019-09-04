@@ -3,13 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chreliot.github.io/phi10/</loc>
-    <priority>0</priority>
+    <loc>http://chreliot.github.io/phi10/tags/</loc>
+    <lastmod>2019-09-03T21:33:17-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://chreliot.github.io/phi10/tags/</loc>
-    <priority>0</priority>
+    <loc>http://chreliot.github.io/phi10/topics/what-is-philosophy/</loc>
+    <lastmod>2019-09-03T21:33:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi10/topics/</loc>
+    <lastmod>2019-09-03T21:33:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi10/tags/topics/</loc>
+    <lastmod>2019-09-03T21:33:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi10/</loc>
+    <lastmod>2019-08-08T15:17:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi10/info/</loc>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi10/info/interpreting-grades/</loc>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi10/sch-01/</loc>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi10/sch-02/</loc>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi10/tags/tests/</loc>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi10/about/</loc>
   </url>
   
 </urlset>
