@@ -6,10 +6,20 @@
     <description>Recent content in Topics on PHI 010</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2019 22:25:13 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 22:30:21 -0400</lastBuildDate>
     
 	<atom:link href="http://chreliot.github.io/phi10/topics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Topic 3: Logic</title>
+      <link>http://chreliot.github.io/phi10/topics/logic/</link>
+      <pubDate>Tue, 03 Sep 2019 22:30:21 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi10/topics/logic/</guid>
+      <description>A basic organizing structure for philosophy is the argument. Arguments are sets of statements where one of the statements is a conclusion. What knits them together is logic. We will think about what arguments are and then learn some basic ideas of logic.
+Reading  “Basic Ideas and Tools,” Chapter 1 of A Modem Formal Logic Primer by Edmund Teller, sections 1-1 to 1-4, or equivalently pages 1–10 of Volume 1.</description>
+    </item>
     
     <item>
       <title>Topic 2: Determinism and Freedom</title>
