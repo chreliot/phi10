@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://chreliot.github.io/phi10/posts/</loc>
+    <lastmod>2019-10-14T10:10:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://chreliot.github.io/phi10/tags/</loc>
+    <lastmod>2019-10-14T10:10:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi10/posts/test-1-questions/</loc>
     <lastmod>2019-10-14T10:10:50-04:00</lastmod>
   </url>
   
