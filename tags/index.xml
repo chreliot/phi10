@@ -6,10 +6,19 @@
     <description>Recent content in Tags on PHI 010</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Nov 2019 17:31:21 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 09:58:00 -0500</lastBuildDate>
     
 	<atom:link href="http://chreliot.github.io/phi10/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>assignments</title>
+      <link>http://chreliot.github.io/phi10/tags/assignments/</link>
+      <pubDate>Mon, 18 Nov 2019 09:58:00 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi10/tags/assignments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>topics</title>
@@ -26,15 +35,6 @@
       <pubDate>Sun, 10 Nov 2019 17:01:08 -0500</pubDate>
       
       <guid>http://chreliot.github.io/phi10/tags/tests/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>assignments</title>
-      <link>http://chreliot.github.io/phi10/tags/assignments/</link>
-      <pubDate>Fri, 27 Sep 2019 09:23:10 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi10/tags/assignments/</guid>
       <description></description>
     </item>
     
